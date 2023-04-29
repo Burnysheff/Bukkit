@@ -1,7 +1,7 @@
 package org.bukkit.event.weather;
 
 import org.bukkit.World;
-import org.bukkit.entity.LightningStrike;
+import org.bukkit.entity.projectile.LightningStrike;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;
 

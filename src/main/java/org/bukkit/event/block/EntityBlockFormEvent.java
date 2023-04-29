@@ -3,13 +3,14 @@ package org.bukkit.event.block;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockState;
 import org.bukkit.entity.Entity;
+import org.bukkit.entity.living.animal.monsters.Snowman;
 
 /**
  * Called when a block is formed by entities.
  * <p>
  * Examples:
  * <ul>
- * <li>Snow formed by a {@link org.bukkit.entity.Snowman}.
+ * <li>Snow formed by a {@link Snowman}.
  * </ul>
  */
 public class EntityBlockFormEvent extends BlockFormEvent {

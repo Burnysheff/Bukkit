@@ -5,8 +5,8 @@ import java.util.Collection;
 import java.util.Map;
 
 import org.apache.commons.lang.Validate;
-import org.bukkit.entity.LivingEntity;
-import org.bukkit.entity.ThrownPotion;
+import org.bukkit.entity.living.LivingEntity;
+import org.bukkit.entity.projectile.ThrownPotion;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;
 

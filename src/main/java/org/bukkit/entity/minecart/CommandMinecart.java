@@ -1,7 +1,7 @@
 package org.bukkit.entity.minecart;
 
 import org.bukkit.command.CommandSender;
-import org.bukkit.entity.Minecart;
+import org.bukkit.entity.vehicle.Minecart;
 
 public interface CommandMinecart extends Minecart, CommandSender {
 

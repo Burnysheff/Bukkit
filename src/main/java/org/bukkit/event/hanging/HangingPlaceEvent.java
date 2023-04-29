@@ -2,7 +2,7 @@ package org.bukkit.event.hanging;
 
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.entity.Hanging;
+import org.bukkit.entity.hangers.Hanging;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;

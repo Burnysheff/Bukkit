@@ -1,6 +1,6 @@
 package org.bukkit.event.entity;
 
-import org.bukkit.entity.Horse;
+import org.bukkit.entity.living.animal.animals.Horse;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;
 

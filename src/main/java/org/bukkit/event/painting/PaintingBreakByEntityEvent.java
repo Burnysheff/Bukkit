@@ -2,7 +2,7 @@ package org.bukkit.event.painting;
 
 import org.bukkit.Warning;
 import org.bukkit.entity.Entity;
-import org.bukkit.entity.Painting;
+import org.bukkit.entity.hangers.Painting;
 
 /**
  * Triggered when a painting is removed by an entity

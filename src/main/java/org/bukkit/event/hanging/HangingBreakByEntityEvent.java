@@ -1,7 +1,7 @@
 package org.bukkit.event.hanging;
 
 import org.bukkit.entity.Entity;
-import org.bukkit.entity.Hanging;
+import org.bukkit.entity.hangers.Hanging;
 
 /**
  * Triggered when a hanging entity is removed by an entity

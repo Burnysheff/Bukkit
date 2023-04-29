@@ -1,6 +1,6 @@
 package org.bukkit.event.entity;
 
-import org.bukkit.entity.ThrownExpBottle;
+import org.bukkit.entity.projectile.ThrownExpBottle;
 import org.bukkit.event.HandlerList;
 
 /**

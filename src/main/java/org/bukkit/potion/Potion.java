@@ -4,7 +4,7 @@ import java.util.Collection;
 
 import org.apache.commons.lang.Validate;
 import org.bukkit.Material;
-import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.living.LivingEntity;
 import org.bukkit.inventory.ItemStack;
 
 import com.google.common.collect.ImmutableList;

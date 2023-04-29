@@ -3,7 +3,7 @@ package org.bukkit.event.entity;
 import java.util.List;
 import org.bukkit.PortalType;
 import org.bukkit.block.BlockState;
-import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.living.LivingEntity;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;
 

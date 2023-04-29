@@ -1,7 +1,7 @@
 package org.bukkit.event.player;
 
 import org.bukkit.entity.CreatureType;
-import org.bukkit.entity.Egg;
+import org.bukkit.entity.projectile.Egg;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Player;
 import org.bukkit.event.HandlerList;

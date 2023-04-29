@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.UUID;
 
 import org.bukkit.configuration.serialization.ConfigurationSerializable;
-import org.bukkit.entity.AnimalTamer;
+import org.bukkit.entity.living.animal.AnimalTamer;
 import org.bukkit.entity.Player;
 import org.bukkit.permissions.ServerOperator;
 

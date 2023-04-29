@@ -1,5 +1,13 @@
 package org.bukkit.entity;
 
+import org.bukkit.entity.blocks.MagmaCube;
+import org.bukkit.entity.blocks.Slime;
+import org.bukkit.entity.ender.EnderDragon;
+import org.bukkit.entity.living.animal.animals.*;
+import org.bukkit.entity.living.animal.monsters.*;
+import org.bukkit.entity.living.animal.monsters.flying.Ghast;
+import org.bukkit.entity.living.npc.Villager;
+
 import java.util.EnumSet;
 import java.util.HashMap;
 import java.util.Map;

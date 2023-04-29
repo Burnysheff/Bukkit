@@ -1,6 +1,6 @@
 package org.bukkit.event.entity;
 
-import org.bukkit.entity.Slime;
+import org.bukkit.entity.blocks.Slime;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;
 

@@ -1,7 +1,7 @@
 package org.bukkit.event.vehicle;
 
 import org.bukkit.block.Block;
-import org.bukkit.entity.Vehicle;
+import org.bukkit.entity.vehicle.Vehicle;
 import org.bukkit.event.HandlerList;
 
 /**

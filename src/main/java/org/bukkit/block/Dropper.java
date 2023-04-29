@@ -1,5 +1,6 @@
 package org.bukkit.block;
 
+import org.bukkit.entity.hangers.Item;
 import org.bukkit.inventory.InventoryHolder;
 
 /**
@@ -19,7 +20,7 @@ public interface Dropper extends BlockState, InventoryHolder {
      * <p>
      * If the block that the Dropper is facing is not an InventoryHolder or
      * ContainerBlock, the randomly selected ItemStack is dropped on
-     * the ground in the form of an {@link org.bukkit.entity.Item Item}.
+     * the ground in the form of an {@link Item Item}.
      */
      public void drop();
 }

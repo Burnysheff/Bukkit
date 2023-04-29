@@ -6,7 +6,7 @@ import java.util.NoSuchElementException;
 import org.apache.commons.lang.Validate;
 import org.bukkit.configuration.serialization.ConfigurationSerializable;
 import org.bukkit.configuration.serialization.SerializableAs;
-import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.living.LivingEntity;
 
 import com.google.common.collect.ImmutableMap;
 

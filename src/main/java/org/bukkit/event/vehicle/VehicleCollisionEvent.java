@@ -1,6 +1,6 @@
 package org.bukkit.event.vehicle;
 
-import org.bukkit.entity.Vehicle;
+import org.bukkit.entity.vehicle.Vehicle;
 
 /**
  * Raised when a vehicle collides.

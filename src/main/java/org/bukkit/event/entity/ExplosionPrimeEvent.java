@@ -1,7 +1,7 @@
 package org.bukkit.event.entity;
 
 import org.bukkit.entity.Entity;
-import org.bukkit.entity.Explosive;
+import org.bukkit.entity.projectile.explosive.Explosive;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;
 

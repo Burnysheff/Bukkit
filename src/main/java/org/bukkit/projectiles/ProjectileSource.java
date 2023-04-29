@@ -1,6 +1,6 @@
 package org.bukkit.projectiles;
 
-import org.bukkit.entity.Projectile;
+import org.bukkit.entity.projectile.Projectile;
 import org.bukkit.util.Vector;
 
 /**

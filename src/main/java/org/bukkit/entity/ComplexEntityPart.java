@@ -1,5 +1,7 @@
 package org.bukkit.entity;
 
+import org.bukkit.entity.ender.ComplexLivingEntity;
+
 /**
  * Represents a single part of a {@link ComplexLivingEntity}
  */

@@ -1,7 +1,7 @@
 package org.bukkit.event.entity;
 
-import org.bukkit.entity.AnimalTamer;
-import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.living.animal.AnimalTamer;
+import org.bukkit.entity.living.LivingEntity;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.HandlerList;
 

@@ -1,6 +1,6 @@
 package org.bukkit.entity.minecart;
 
-import org.bukkit.entity.Minecart;
+import org.bukkit.entity.vehicle.Minecart;
 import org.bukkit.inventory.InventoryHolder;
 
 /**

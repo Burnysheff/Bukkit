@@ -1,7 +1,7 @@
 package org.bukkit.event.entity;
 
 import org.bukkit.entity.Entity;
-import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.living.LivingEntity;
 
 /**
  * Called when an Entity targets a {@link LivingEntity} and can only target

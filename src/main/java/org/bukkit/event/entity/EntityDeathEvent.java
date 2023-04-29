@@ -1,7 +1,7 @@
 package org.bukkit.event.entity;
 
 import java.util.List;
-import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.living.LivingEntity;
 import org.bukkit.event.HandlerList;
 import org.bukkit.inventory.ItemStack;
 

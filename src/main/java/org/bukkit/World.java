@@ -1,6 +1,12 @@
 package org.bukkit;
 
 import java.io.File;
+
+import org.bukkit.entity.blocks.FallingBlock;
+import org.bukkit.entity.hangers.Item;
+import org.bukkit.entity.living.LivingEntity;
+import org.bukkit.entity.projectile.Arrow;
+import org.bukkit.entity.projectile.LightningStrike;
 import org.bukkit.generator.ChunkGenerator;
 import java.util.Collection;
 import java.util.HashMap;

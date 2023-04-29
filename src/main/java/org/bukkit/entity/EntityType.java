@@ -3,6 +3,22 @@ package org.bukkit.entity;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.bukkit.entity.blocks.FallingBlock;
+import org.bukkit.entity.blocks.MagmaCube;
+import org.bukkit.entity.blocks.Slime;
+import org.bukkit.entity.ender.EnderCrystal;
+import org.bukkit.entity.ender.EnderDragon;
+import org.bukkit.entity.ender.EnderSignal;
+import org.bukkit.entity.hangers.Item;
+import org.bukkit.entity.hangers.ItemFrame;
+import org.bukkit.entity.hangers.LeashHitch;
+import org.bukkit.entity.hangers.Painting;
+import org.bukkit.entity.living.LivingEntity;
+import org.bukkit.entity.living.animal.animals.*;
+import org.bukkit.entity.living.animal.monsters.*;
+import org.bukkit.entity.living.animal.monsters.flying.Ghast;
+import org.bukkit.entity.living.npc.Villager;
+import org.bukkit.entity.living.other.Bat;
 import org.bukkit.entity.minecart.CommandMinecart;
 import org.bukkit.entity.minecart.HopperMinecart;
 import org.bukkit.entity.minecart.SpawnerMinecart;
@@ -10,6 +26,9 @@ import org.bukkit.entity.minecart.RideableMinecart;
 import org.bukkit.entity.minecart.ExplosiveMinecart;
 import org.bukkit.entity.minecart.PoweredMinecart;
 import org.bukkit.entity.minecart.StorageMinecart;
+import org.bukkit.entity.projectile.*;
+import org.bukkit.entity.projectile.explosive.*;
+import org.bukkit.entity.vehicle.Boat;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.Location;
 import org.bukkit.World;
@@ -162,7 +181,6 @@ public enum EntityType {
      * Spawn with {@link World#strikeLightning(Location)}.
      */
     LIGHTNING(null, LightningStrike.class, -1, false),
-    WEATHER(null, Weather.class, -1, false),
     PLAYER(null, Player.class, -1, false),
     COMPLEX_PART(null, ComplexEntityPart.class, -1, false),
     /**

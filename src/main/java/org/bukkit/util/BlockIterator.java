@@ -6,7 +6,7 @@ import org.bukkit.World;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.living.LivingEntity;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
